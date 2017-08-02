@@ -1,0 +1,15 @@
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\bin\Debug\CustomerVoicemailSystem.exe.config
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\bin\Debug\CustomerVoicemailSystem.exe
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\bin\Debug\CustomerVoicemailSystem.pdb
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.CustomerVoicemailSystem.resources
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.Customer.resources
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.Properties.Resources.resources
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.csproj.GenerateResource.Cache
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.exe
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.pdb
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.csprojResolveAssemblyReference.cache
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.Correspondence.resources
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\bin\Debug\Data\CustomerVoicemailDB.mdf
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\bin\Debug\Data\CustomerVoicemailDB_log.ldf
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.Presentation.Email.resources
+C:\Users\WomackE\Desktop\CustomerVoicemailSystem\CustomerVoicemailSystem\obj\Debug\CustomerVoicemailSystem.Presentation.Voicemail.resources
